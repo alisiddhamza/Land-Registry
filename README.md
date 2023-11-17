@@ -2,9 +2,6 @@
 
 This project is a basic land registration smart contract on the Ethereum blockchain. It allows users to register, verify, and reject sellers, buyers, and land registration. The project is written in Solidity, and the contract has been tested using the Solidity compiler version 0.8.17.
 
-### How to Use
-#### Contract Deployment
-To deploy the contract, you will need to have access to an Ethereum blockchain network, such as a local development network or a test network like goerli. You can deploy the contract using Remix or any other Solidity IDE of your choice.
 
 #### Contract Interactions
 Once the contract is deployed, you can interact with it using a Web3-enabled browser or a Web3 library like Web3.js. The following functions are available for interaction with the contract:
